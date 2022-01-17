@@ -1,0 +1,8 @@
+{
+  "response": {
+    "data": {
+      "info": "My info",
+      "message": "Testing json-server container"
+    }
+  }
+}
